@@ -1,4 +1,4 @@
-﻿UNIT NAME,Portfolio,Location,Fuel,MW,(MMBTU/,$/MMBTU,$/MWh,$/MWh,MC,tons/MWh,O&M/Day ($)
+UNIT_NAME,Portfolio,Location,Fuel,MW,MMBTU,$/MMBTU,$/MWh,$/MWh,MC,Co2_tons/MWh,O&M/Day
 BIG CREEK,Old Timers,South,Hydro,1000,0.00,0.00,0.00,0.00,1.00,0.00,"$15,000"
 MOHAVE 1,Old Timers,South,Coal,750,10.00,3.00,30.00,4.50,34.50,0.94,"$15,000"
 MOHAVE 2,Old Timers,South,Coal,750,10.00,3.00,30.00,4.50,34.50,0.94,"$15,000"
