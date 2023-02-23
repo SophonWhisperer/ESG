@@ -1,4 +1,4 @@
-Day,Location,Hour,Load Intercept,Load Slope
+Day,Location,Hour,Intercept,Slope
 1,North,1,3628,-3.36
 1,North,2,2969,-3.45
 1,North,3,7698,-3.05
