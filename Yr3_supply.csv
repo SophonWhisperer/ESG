@@ -1,4 +1,4 @@
-﻿UNIT_NAME,Portfolio,Location,Fuel,MW,MMBTU,$/MMBTU,$/MWh,$/MWh,MC,BLANK_IGNORE,Co2_tons/MWh,O&M/Day,Permit_cost,MC_PC,O_M_Dollars
+﻿UNIT_NAME,Portfolio,Location,Fuel,MW,MMBTU,$/MMBTU,$/MWh,$/MWh,MC,BLANK_IGNORE,Co2_tons/MWh,Permit_cost,MC_PC,O_M_Dollars
 BIG CREEK,Old Timers,South,Hydro,1000,1000,0,0,0,0,0,0,0,0,"$15,000 "
 HELMS,Fossil Light,North,Hydro,800,1800,0,0,0,0.5,0.5,0,0,0.5,"$15,000 "
 DIABLO CANYON 1,Fossil Light,North,Nuclear,1000,2800,1,7.5,7.5,4,11.5,0,0,11.5,"$20,000 "
